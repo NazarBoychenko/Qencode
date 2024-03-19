@@ -1,0 +1,67 @@
+:root {
+  font-family: BasisGrotesqueArabicPro-Regular, sans-serif;
+  line-height: 20px;
+  font-weight: 400;
+
+  color: #060E1E;
+  background-color: #ffffff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+a {
+  color: #316FEA;
+  text-decoration: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Gilroy fonts*/
+@font-face {
+  font-family: 'BasisGrotesqueArabicPro-Black';
+  src:
+          local('BasisGrotesqueArabicPro-Black'),
+          url(./assets/fonts/BasisGrotesqueArabicPro-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'BasisGrotesqueArabicPro-Bold';
+  src:
+          local('BasisGrotesqueArabicPro-Bold'),
+          url(./assets/fonts/BasisGrotesqueArabicPro-Bold.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'BasisGrotesqueArabicPro-Light';
+  src:
+          local('BasisGrotesqueArabicPro-Light'),
+          url(./assets/fonts/BasisGrotesqueArabicPro-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'BasisGrotesqueArabicPro-Medium';
+  src:
+          local('BasisGrotesqueArabicPro-Medium'),
+          url(./assets/fonts/BasisGrotesqueArabicPro-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'BasisGrotesqueArabicPro-Regular';
+  src:
+          local('BasisGrotesqueArabicPro-Regular'),
+          url(./assets/fonts/BasisGrotesqueArabicPro-Regular.ttf) format('truetype');
+}
+
