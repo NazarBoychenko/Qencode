@@ -8,4 +8,4 @@ The following libraries are used in this project:
 - [React-Router-Dom](https://github.com/vitejs/vite-plugin-react-swc](https://reactrouter.com/en/main)https://reactrouter.com/en/main)
 - [Styled-Components](https://styled-components.com/)
 
-#A script to run this project: npm run dev
+## A script to run this project: npm run dev
