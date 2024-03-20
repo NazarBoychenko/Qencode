@@ -111,7 +111,7 @@ export default function LoginPage () {
         <ButtonBlock>
             <Link to="/"><Button onClick={onSubmit} disabled={emailState.valid && passwordState.valid}>Log in to Qencode</Button></Link>
 
-            <TextSignUp>Is your company new to Qencode? <Link to='/'>Sign up</Link></TextSignUp>
+            <TextSignUp>Is your company new to Qencode?<Link to='/'>Sign up</Link></TextSignUp>
         </ButtonBlock>
     </Shell>
 }

@@ -17,6 +17,10 @@ export const AuthButton = styled.button`
     padding: 14px 58px;
     display: flex;
     align-items: center;
+
+    @media (max-width: 460px) {
+        padding: 14px 38px;
+    }
 `;
 
 export const Img = styled.img`
