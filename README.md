@@ -1,8 +1,11 @@
-# React + Vite
+# Qencode
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This test task was created using the project generator: Vite. Based on the library: React
 
-Currently, two official plugins are available:
+The following libraries are used in this project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Axios](https://axios-http.com/docs/intro)
+- [React-Router-Dom](https://github.com/vitejs/vite-plugin-react-swc](https://reactrouter.com/en/main)https://reactrouter.com/en/main)
+- [Styled-Components](https://styled-components.com/)
+
+## A script to run this project: npm run dev
